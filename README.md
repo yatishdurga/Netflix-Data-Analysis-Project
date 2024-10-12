@@ -45,8 +45,6 @@ CREATE TABLE netflix (
 ### Query to verify the data
 SELECT * FROM netflix;
 
--- 15 Business Problems Solved Using SQL Queries
-
 ### 1. Count the number of movies vs TV shows
 ```sql
 SELECT 
